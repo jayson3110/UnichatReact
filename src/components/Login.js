@@ -4,6 +4,8 @@ import "firebase/app";
 
 import {auth} from '../firebase';
 
+//Trying to commit
+
 const Login = () => {
 	return (
 
@@ -35,3 +37,4 @@ const Login = () => {
 }
 
 export default Login;
+
