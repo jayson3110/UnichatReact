@@ -10,7 +10,7 @@ export const auth = firebase.initializeApp({
   storageBucket: "unichat-f5fa5.appspot.com",
   messagingSenderId: "198876671430",
   appId: "1:198876671430:web:21e56f65c7e296c66f56c7",
-  measurementId: "G-PC3XRG9BWC"
+
 }).auth();
 
 
